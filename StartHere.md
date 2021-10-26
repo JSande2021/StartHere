@@ -24,6 +24,7 @@ outside of this degree program.
 <hr>
 
 * [Contacts Application](https://github.com/JSande2021/ContactsApplication)
+* [CustomList Application](https://github.com/JSande2021/CustomList)
 * Maze Solver
 * Inventory Application (in progress)
 * Airline Ticket Reservation System (in progress)
