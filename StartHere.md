@@ -1,7 +1,4 @@
-#Welcome to Joeseph Sande's GitHub profile!
-
-<hr>
-
+# Welcome to Joeseph Sande's GitHub profile!
 
 *Software Knowledge*
 
