@@ -24,7 +24,7 @@ outside of this degree program.
 **Projects**
 <hr>
 
--Contacts Application
--Maze Solver
--Inventory Application (in progress)
--Airline Ticket Reservation System (in progress)
+* [Contacts Application](https://github.com/JSande2021/ContactsApplication)
+* Maze Solver
+* Inventory Application (in progress)
+* Airline Ticket Reservation System (in progress)
