@@ -26,7 +26,7 @@ outside of this degree program.
 * [Contacts Application](https://github.com/JSande2021/ContactsApplication)
 * [Data Base Design](https://github.com/JSande2021/MySQLDataBaseDesign)
 * [Bash Scripting](https://github.com/JSande2021/BashScripting)
-* [Website](https://github.com/JSande2021/Website)
+* [Website](https://github.com/JSande2021/Website) (Ongoing updates)
 * [Memory Management/Deadlock Avoidance](https://github.com/JSande2021/MemoryManagement_C)
 * [CustomList Application](https://github.com/JSande2021/CustomList)
 * [Rock Paper Scissors](https://github.com/JSande2021/RockPaperScissors)
