@@ -2,14 +2,14 @@
 
 **Software Knowledge**
 
-Programming languages that I have experience coding with are C, C#, Java, Javascript, Python, HTML with CSS, PHP, and Bash Script.
+Programming languages that I have experience coding with are Java, Javascript, Python, C, C#, HTML with CSS, PHP, and Bash Script.
+I have worked with the following frameworks: BootStrap, Wicket, Thymeleaf, .Net, Angular, 
 Technologies that I am familiar with are MySQL, PostgreSQL, Bootstrap, MAMP, Maven, JSON, JQuery, JQuery UI, JSF, ADO.NET, MongoDB.
-Tools that I have utilized for programming are Eclipse, PHPMyAdmin, MySQL Workbench, Visual Studio, Visual Studio Code, Github, Microsoft Azure, MondgoDB Compass, virtual 
-box for Linux/Unix OS.
+Tools that I have utilized for programming are Eclipse, PHPMyAdmin, MySQL Workbench, Visual Studio, Visual Studio Code, Github, Microsoft Azure, MondgoDB Compass, virtual box for Linux/Unix OS.
 
 **Education and Brief Work History**
 
-I currently have an internship as a Software Developer Intern at CFM Core Integration Experts.
+I currently have an internship as a Software Engineer Intern at CFM Core Integration Experts where I am coding with the Java language primarily utilizing the two frameworks of Spring Boot.
 
 I have earned a bachelor's degree in Legal Studies in 2017 and I will have a second bachelor's degree in Software Development in May of 2023. I have worked in the Army National Guard for seven years as the Paralegal Non-Commissioned Office in Charge of Administrative Separations within the Office of the State Judge Advocate for Arizona. I have deployed twice to Afghanistan and Kuwait/Iraq. 
 
