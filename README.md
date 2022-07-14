@@ -3,7 +3,7 @@
 **Software Knowledge**
 
 Programming languages that I have experience coding with are Java, Javascript, Python, C, C#, HTML with CSS, PHP, and Bash Script.
-I have worked with the following frameworks: Spring Boot, Wicket, Thymeleaf, .Net, Angular, 
+I have worked with the following frameworks: Spring Boot, Wicket, Thymeleaf, .Net, Angular, React, and Node.js. 
 Technologies that I am familiar with are MySQL, PostgreSQL, Bootstrap, MAMP, Maven, JSON, JQuery, JQuery UI, JSF, ADO.NET, MongoDB.
 Tools that I have utilized for programming are Eclipse, PHPMyAdmin, MySQL Workbench, Visual Studio, Visual Studio Code, Github, Microsoft Azure, MondgoDB Compass, virtual box for Linux/Unix OS.
 
