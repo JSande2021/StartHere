@@ -11,7 +11,7 @@ Tools that I have utilized for programming are Eclipse, PHPMyAdmin, MySQL Workbe
 
 I currently have an internship as a Software Engineer Intern at CFM Core Integration Experts where I am coding with the Java language primarily utilizing the two frameworks of Spring Boot and Wicket.
 
-I have earned a bachelor's degree in Legal Studies in 2017 and I will have a second bachelor's degree in Software Development in May of 2023. I have worked in the Army National Guard for eight years as the Paralegal Non-Commissioned Office in Charge of the Office of the State Judge Advocate for Arizona. I have deployed twice to Afghanistan and Kuwait/Iraq. 
+I have earned a bachelor's degree in Legal Studies in 2017 and I will have a second bachelor's degree in Software Development in May of 2023. I have worked in the Army National Guard for eight years as the Paralegal Non-Commissioned Office in Charge of the Office of the Staff Judge Advocate for Arizona. I have deployed twice to Afghanistan and Kuwait/Iraq. 
 
 **Fun Facts About Me**
 
