@@ -19,7 +19,7 @@ I have two huskies that my wife and I take camping, hiking, and running! Their n
 
 **Resume**
 
-* [Joeseph Sande's Resume]()
+* [Joeseph Sande's Resume](https://github.com/JSande2021/Wakeup9000/blob/main/JoesephSandeSoftwareEngineerResume.pdf)
 
 <hr>
 
