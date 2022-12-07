@@ -17,6 +17,13 @@ I have earned a bachelor's degree in Legal Studies in 2017 and I will have a sec
 
 I have two huskies that my wife and I take camping, hiking, and running! Their names are Bear and Hazel and they have so much personality between the two of them! I've recently began working with FPGA boards and creating projects with these to become familiar with basic circuitry while I pursue my software development degree due to these concepts being outside of this degree program. 
 
+**Resume**
+
+* [Joeseph Sande's Resume]()
+
+<hr>
+
+
 **Projects**
 
 <hr>
