@@ -33,12 +33,8 @@ I have two huskies that my wife and I take camping, hiking, and running! Their n
 * [Contacts Application](https://github.com/JSande2021/ContactsApplication)
 * [Data Base Design](https://github.com/JSande2021/MySQLDataBaseDesign)
 * [Bash Scripting](https://github.com/JSande2021/BashScripting)
-* [Website](https://github.com/JSande2021/Website) (Ongoing updates)
 * [Memory Management/Deadlock Avoidance](https://github.com/JSande2021/MemoryManagement_C)
 * [CustomList Application](https://github.com/JSande2021/CustomList)
-* [Rock Paper Scissors](https://github.com/JSande2021/RockPaperScissors)
+* [Rock Paper Scissors Adroid Application](https://github.com/JSande2021/RockPaperScissors)
 * [Uno](https://github.com/JSande2021/Uno)
 * [Math Quiz](https://github.com/JSande2021/MathQuizApp)
-* Maze Solver
-* Inventory Application (in progress)
-* Airline Ticket Reservation System (in progress)
