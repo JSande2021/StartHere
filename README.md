@@ -9,7 +9,7 @@ Tools that I have utilized for programming are Eclipse, PHPMyAdmin, MySQL Workbe
 
 **Education and Brief Work History**
 
-I currently have an full time position as a Software Engineer at CFM Core Integration Experts where I am primarily coding with Java and Go.
+I currently have an full time position as a Software Engineer at CFM Core Integration Experts where I am primarily coding with Java, C#, and Go.
 
 I have earned a bachelor's degree in Legal Studies in 2017 and I will have a second bachelor's degree in Software Development in February of 2023. I have worked in the Army National Guard for nine years as the Paralegal Non-Commissioned Office in Charge of the Office of the Staff Judge Advocate for Arizona and have deployed twice to Afghanistan and Kuwait/Iraq. 
 
