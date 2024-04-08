@@ -27,7 +27,7 @@ I have THREE huskies that my wife and I take camping, hiking, and running! Their
 **Projects**
 
 <hr>
-* [Home Search Assistant (Coming Soon)]()
+* [Home Search Assistant--Coming Soon...](https://github.com/JSande2021/)
 * [Wakeup9000](https://github.com/JSande2021/Wakeup9000)
 * [AddressBookWebApp](https://github.com/JSande2021/AddressBookWebApp)
 * [Contacts Application](https://github.com/JSande2021/ContactsApplication)
